@@ -22,3 +22,5 @@ Observations:
 
 Client bundle has updated `package` version, but server bundle has outdated one.
 It results in page blinking and console warning, since server and client render different output.
+
+![](./example.gif)
